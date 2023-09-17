@@ -1,8 +1,5 @@
-# SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
-#
-# SPDX-License-Identifier: MIT
+#Aadhar-RGB_Animation_DMA
 
-"""CircuitPython Essentials Internal RGB LED red, green, blue example"""
 import time
 import board
 
